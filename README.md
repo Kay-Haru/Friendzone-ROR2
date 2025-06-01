@@ -1,6 +1,5 @@
 # Code: 01972c05-c5c0-fb42-cbe6-5777e9c8c073
 
-so far:
 ## __BiggerBazaar__
 ### there's a lot here, and we can enable some funky stuff
 - Each item (other than Reds) can be purchased an unlimited amount of times total
