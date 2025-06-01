@@ -38,7 +38,6 @@ so far:
 - Timer no longer increases while in the Void Fields.
 
 ## __RiskyTweaks/Fixes__
-### Bunch of stuff here. Mainly just using it for the Void Fields stuff
 - Remove DLC ad from main menu
 - Teleporters now charge full speed always
 - Enable Prismatic Trials while modded
@@ -55,3 +54,5 @@ so far:
 Need thoughts:
 Acrid poison cap?
 Huntress tracking cursor?
+https://thunderstore.io/package/Kytsop/MoreSkullStacks/
+https://thunderstore.io/package/Moffein/TeammateRevival/
