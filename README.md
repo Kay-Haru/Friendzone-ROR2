@@ -51,7 +51,7 @@
 - Drones/Turrets teleport to the player "more frequently"
 
 Need thoughts:
-Acrid poison cap?
-Huntress tracking cursor?
-https://thunderstore.io/package/Kytsop/MoreSkullStacks/
-https://thunderstore.io/package/Moffein/TeammateRevival/
+- Acrid poison cap?
+- Huntress tracking cursor?
+- https://thunderstore.io/package/Kytsop/MoreSkullStacks/
+- https://thunderstore.io/package/Moffein/TeammateRevival/
